@@ -1,2 +1,2 @@
 <?php
-echo 'teisendus';
+require_once '../app/bootstrap.php';
